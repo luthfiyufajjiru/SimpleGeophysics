@@ -1,5 +1,5 @@
 '''
-Kode inversi 1D gravitasi untuk contoh Analisis Data Geofisika 2
+Kode proses inversi 1D pada data gravitasi untuk contoh Analisis Data Geofisika 2
 Program Studi Geofisika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Indonesia
 author : Luthfi Yufajjiru
 email  : luthfiyufajjiru@gmail.com
