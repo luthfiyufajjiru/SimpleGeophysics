@@ -16,4 +16,4 @@ rapidly for us, especially for my self through these simple projects. I have gla
 All of the code can freely be used for academic purposed. I hope you could give honor to our contributors for scientific or popular
 publishing
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Lisensi Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />&copy;2020 Luthfi Yufajjiru<br>Pekerjaan ini dilindungi oleh<br> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Lisensi Creative Commons Atribusi 4.0 Internasional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />&copy;2020 Luthfi Yufajjiru<br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
